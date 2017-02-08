@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(215, 218, 224);
+	font-family: Cambria;
+}
+
+h1 {
+	text-align: center;
+}
+
+.circular--landscape {
+	display: inline-block;
+	position: relative;
+	width: 310px;
+	height: 290px;
+	overflow: hidden;
+	border-radius: 50%;
+}
+
+.circular--landscape img {
+	width: auto;
+	height: 50%;
+}
